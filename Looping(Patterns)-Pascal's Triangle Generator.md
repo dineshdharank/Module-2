@@ -42,7 +42,8 @@ print("")
 ```
 
 ## Sample Output
-<img width="1281" height="633" alt="438599024-17390b90-cac6-4e6a-8dc8-01cb1085fa2e" src="https://github.com/user-attachments/assets/5aee70ac-7823-49f3-8d74-c62ee06923e8" />
+<img width="666" height="752" alt="image" src="https://github.com/user-attachments/assets/9bfd16fc-831c-46d2-9315-524a411f1f44" />
+
 
 ## Result
 
