@@ -21,7 +21,8 @@ else:
 ```
 
 ## Output
-<img width="926" height="315" alt="442714745-6154b4c0-d1b3-41cc-9c1b-b346b34d96bf" src="https://github.com/user-attachments/assets/431313bb-bd98-4352-9d93-1fcf115381ca" />
+<img width="1181" height="278" alt="image" src="https://github.com/user-attachments/assets/09f0e145-7882-41d2-b5ec-08c7bc8e0363" />
+
 
 ## Result
 Thus, the python program was executed successfully
